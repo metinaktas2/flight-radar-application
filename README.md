@@ -38,10 +38,10 @@ https://github.com/user-attachments/assets/e8d94c8f-a1eb-4866-9166-87057362c6ad
 
 
 # 📎 Future Improvements
-User authentication
-Flight filtering and search
-Dark mode
-Performance optimizations
+- User authentication
+- Flight filtering and search
+- Dark mode
+- Performance optimizations
 
 
 # 🧑‍💻 Author
